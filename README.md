@@ -1,7 +1,7 @@
-<p>Hello my name is <b>Willie Whitfield</b> and I am an aspiring front-end web deveoper, welcome to my page</p>
+<p>Hello my name is <b>Willie Whitfield</b> and I am a front-end web deveoper, welcome to my page</p>
 
 <h3>Bio</h3>
-I am currently currently a special education teacher and basketball coach. I played basketball for a number of years before settling into a slower paced lifestyle. My hobbies includes learning graphic design, gaming, dog training, and cooking. I’m looking to collaborate on some simple websites/projects to further develop my skills as I try to make a career transition.
+I am currently currently a special education teacher and basketball coach. I played basketball for a number of years before settling into a slower paced lifestyle. My hobbies includes learning graphic design, gaming, dog training, and cooking. I’m looking to collaborate on some simple websites/projects to further develop my skills as I make a career transition.
 
 <h3>Skills</h3>
   <ul>
