@@ -26,12 +26,14 @@ As someone who's dabbled in HTML & CSS before, I didn't actually recognize my pa
       <li>Host a project or website on GitHub</li>
       <li>Apply version control to protect individual and team source code on GitHub</li>
     </ul>
-  <li>JavaScript Knowledge</li>
+  <li>JavaScript</li>
       <ul>
         <li>Update the browser’s DOM when the UI needs to be updated</>
         <li>Create dynamic and interactive web pages that respond to user input</li>
-  <li>Enhance the appearance and functionality of websites using event handlers</li>
+        <li>Enhance the appearance and functionality of websites using event handlers</li>
         <li>Build JavaScript projects using API calls to pull data from external sources</li>
+        <li>Add interactivity to UIs so users can add, edit, and search</li>
+        <li>Develop programs to solve problems using logic and conditions</li>
       </ul>
   <li>PhotoShop Skills</li>
     <ul>
