@@ -34,12 +34,22 @@ As someone who's dabbled in HTML & CSS before, I didn't actually recognize my pa
         <li>Build JavaScript projects using API calls to pull data from external sources</li>
         <li>Add interactivity to UIs so users can add, edit, and search</li>
         <li>Develop programs to solve problems using logic and conditions</li>
+        <li>Demonstrate proficiency in modern ES6 techniques</li>
       </ul>
-  <li>PhotoShop Skills</li>
+   <li>React JS</li>
+      <ul>
+        <li>Write clean and concise JSX code</>
+        <li>Easily import third-party code</li>
+        <li>Enhance the appearance and functionality of websites using event handlers</li>
+        <li>Plan data flow from different components to ensure UI runs quickly</li>
+      </ul>
+  <li>PhotoShop & Adobe Suite</li>
     <ul>
       <li>Non-Destructive Photo Editing</li>
-      <li>Creation of Wireframes</li>
-      <li>Base-Level Graphic Design</li>
+      <li>Intermediate-Level Graphic Design</li>
+      <li>Convert paper wireframes into digital wireframes</li>
+      <li>Create wireframes with grids in Photoshop</li>
+      <li>Solve common design and UI problems with design patterns</li>
     </ul>
   </ul>
     
